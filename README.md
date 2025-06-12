@@ -6,7 +6,7 @@ This is my first project from [The Odin Project](https://www.theodinproject.com/
 - HTML boilerplate
 - Internal navigation between pages
 - Recipe images
-- Ordered and ordered lists
+- Ordered and unordered lists
 
 ## Preview
 To view the site locally:
