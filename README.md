@@ -1,12 +1,13 @@
 # Odin Recipes
 
-This is my first project from [The Odin Project](https://www.theodinproject.com/) curriculum and is all about demonstrating basic HTML skills without any CSS or JavaScript implementation.
+This is my first project from [The Odin Project](https://www.theodinproject.com/) curriculum. It demonstrates basic HTML and CSS skills without JavaScript implementation.
 
 ## Features
 - HTML boilerplate
 - Internal navigation between pages
 - Recipe images
 - Ordered and unordered lists
+- CSS
 
 ## Preview
 To view the site locally:
@@ -14,5 +15,4 @@ To view the site locally:
 2. Open `index.html` in your browser
 
 ## Future Improvements
-- Add CSS for styling
 - Add responsive design
