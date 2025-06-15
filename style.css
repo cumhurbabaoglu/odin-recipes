@@ -1,6 +1,7 @@
 img {
     height: auto;
     width: 400px;
+    border: 0.8px solid black;
 }
 
 * {
