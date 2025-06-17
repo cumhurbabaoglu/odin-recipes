@@ -4,10 +4,10 @@ img {
     border: 0.8px solid black;
 }
 
-* {
+body {
     line-height: 1.5;
     background-color: #F0FFF0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 .image-container {
