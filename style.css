@@ -47,3 +47,17 @@ h1, h2 {
     padding: 5px;
     margin: 20px auto;
 }
+
+ul a {
+    text-decoration: none;
+}
+
+nav {
+    background-color: rgb(179, 243, 179);
+    border: 2px solid lightblue;
+    border-radius: 15px;
+    margin: 5rem auto;
+    width: 50%;
+    max-width: 800px;
+    padding: 1rem;
+}
