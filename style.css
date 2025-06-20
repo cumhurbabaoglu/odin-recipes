@@ -62,3 +62,17 @@ nav {
     max-width: 800px;
     padding: 1rem;
 }
+
+.ingredients-chicken,
+.ingredients-lentil,
+.ingredients-spaghetti {
+    border: 2px solid lightblue;
+    background-color: rgb(200, 245, 200);
+    text-align: center;
+    padding-bottom: 1rem;
+    width: 50%;
+    max-width: 800px;
+    margin: 1rem auto;
+    border-radius: 10px;
+
+}
