@@ -15,6 +15,6 @@ To view the site locally:
 2. Open `index.html` in your browser
 
 ## Future Improvements
-- Add responsive design
-- Add additional CSS features
-- Improve HTML structure
+- Add responsive design, e.g. using media queries
+- Add additional CSS features, e.g. improved layout using flexbox
+- Add details to HTML structure, e.g. semantic elements
