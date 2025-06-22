@@ -114,3 +114,7 @@ ul {
 .flex-container-spaghetti {
     display: flex;
 }
+
+ol {
+    margin: 25px;
+}
