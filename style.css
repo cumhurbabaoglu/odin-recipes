@@ -99,3 +99,9 @@ ul {
     width: 300px;
     border-radius: 10px;
 }
+
+.flex-container-chicken,
+.flex-container-lentil,
+.flex-container-spaghetti {
+    display: flex;
+}
