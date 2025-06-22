@@ -88,5 +88,14 @@ ul {
     text-align: center;
     width: 300px;
     border-radius: 10px;
+}
 
+.description-chicken,
+.description-lentil,
+.description-spaghetti {
+    border: 2px solid lightblue;
+    background-color: rgb(200, 245, 200);
+    text-align: center;
+    width: 300px;
+    border-radius: 10px;
 }
