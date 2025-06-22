@@ -111,3 +111,9 @@ ul {
     justify-content: space-evenly;
 }
 
+.footer-spaghetti {
+    border: 1px solid blue;
+    margin: 20px;
+    background-color: #B0EAFD;
+    width: 100vw;
+}
