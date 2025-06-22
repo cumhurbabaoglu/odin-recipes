@@ -115,4 +115,7 @@ ul {
     margin: 20px;
     background-color: #B0EAFD;
     width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
 }
