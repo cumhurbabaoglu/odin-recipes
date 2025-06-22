@@ -80,6 +80,7 @@ nav {
     max-width: 800px;
     margin: 1rem auto;
     border-radius: 10px;
+    flex: 1;
 }
 
 ul {
@@ -94,6 +95,7 @@ ul {
     text-align: center;
     width: 300px;
     border-radius: 10px;
+    flex: 1;
 }
 
 .description-chicken,
@@ -104,6 +106,7 @@ ul {
     text-align: center;
     width: 300px;
     border-radius: 10px;
+    flex: 1;
 }
 
 .flex-container-chicken,
