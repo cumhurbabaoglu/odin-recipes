@@ -103,6 +103,8 @@ ul {
 .flex-container-spaghetti {
     display: flex;
     justify-content: space-evenly;
+    border: 1px solid green;
+    margin: 20px;
 }
 
 .footer-spaghetti {
