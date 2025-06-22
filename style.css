@@ -118,3 +118,10 @@ ul {
     justify-content: space-around;
     padding: 20px;
 }
+
+.contact-spaghetti,
+.about-spaghetti {
+    border: 1px solid blue;
+    padding: 10px;
+    background-color: aqua;
+}
