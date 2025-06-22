@@ -108,5 +108,6 @@ ul {
 .flex-container-lentil,
 .flex-container-spaghetti {
     display: flex;
+    justify-content: space-evenly;
 }
 
